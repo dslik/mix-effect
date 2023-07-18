@@ -1,0 +1,1 @@
+The 2811A uses the same boards as the 2810A, with the exception of the front panel.
